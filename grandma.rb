@@ -17,4 +17,6 @@ def speak_to_grandma(talk)
     return "NO, NOT SINCE 1938!"
   else
     return nil
+    
+    
 end
