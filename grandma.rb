@@ -13,9 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(talk)
-  if talk == talk.upcase
-    return "NO, NOT SINCE 1938!"
-  else
-    return nil
+  
 
 end
