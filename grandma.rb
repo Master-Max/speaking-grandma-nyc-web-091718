@@ -19,5 +19,4 @@ def speak_to_grandma(q)
     return "I LOVE YOU TOO PUMPKIN!"
   else
     return "NO, NOT SINCE 1938"
-
 end
