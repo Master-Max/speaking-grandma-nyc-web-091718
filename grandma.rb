@@ -18,7 +18,6 @@ def speak_to_grandma(talk)
     response = "I LOVE YOU TOO PUMPKIN!"
   elsif talk == talk.upcase
     response = "NO, NOT SINCE 1938!"
-  els
   end
   return response
 end
