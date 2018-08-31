@@ -13,4 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(q)
-  if(q == q.to)
+  if(q == I LOVE YOU GRANDMA!)
+    return "I LOVE YOU TOO PUMPKIN!"
+  else if(q == q.upcase)
+    return "NO, NOT SINCE 1938"
+  else
+    return "HUH?! SPEAK UP, SONNY!"
+end
